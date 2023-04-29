@@ -17,6 +17,14 @@
 
 - 📄 Know about my experiences [https://gracious-lumiere-199c85.netlify.app/](https://gracious-lumiere-199c85.netlify.app/)
 
+<h3 align="left">Work Experience</h3>
+-Trainee Software Engineer, BJIT Academy, April 2023 - Present
+
+  ->Full-stack Web Developer (Java EE)
+  
+<h3 align="left">Work Experience</h3>
+*Daffodil International University, B.Sc. in Computer Science and Engineering, Jun 2022
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/arupcha01935516" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arupcha01935516" height="30" width="40" /></a>
