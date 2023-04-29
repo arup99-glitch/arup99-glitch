@@ -1,7 +1,7 @@
  <img width="100%" height="200" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" alt="arup" /> 
 <h1 align="center">Hi 👋, I'm Arup Chakraborty</h1>
 <h3 align="center">A passionate Developer from Bangladesh</h3>
-<hr></hr>
+<hr>
 
 <p align="left"> <img  src="https://komarev.com/ghpvc/?username=arup99-glitch&label=Profile%20views&color=0e75b6&style=flat" alt="arup99-glitch" /><p> 
 
