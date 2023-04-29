@@ -1,4 +1,4 @@
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=arup99-glitch&label=Profile%20views&color=0e75b6&style=flat](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fcoding-gif-24625099&psig=AOvVaw09bGD_4s5xDOEBP2lTtmLv&ust=1682856989226000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNCt6fmIz_4CFQAAAAAdAAAAABAJ)" alt="" /> </p>
+<p align="left"> <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" alt="arup" /> </p>
 <h1 align="center">Hi 👋, I'm Arup Chakraborty</h1>
 <h3 align="center">A passionate Developer from Bangladesh</h3>
 <hr></hr>
