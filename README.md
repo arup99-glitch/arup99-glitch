@@ -20,10 +20,10 @@
 <h3 align="left">Work Experience</h3>
 -Trainee Software Engineer, BJIT Academy, April 2023 - Present
 
-  ->Full-stack Web Developer (Java EE)
+  ->Full-stack Web Developer (Java2 EE)
   
-<h3 align="left">Work Experience</h3>
-*Daffodil International University, B.Sc. in Computer Science and Engineering, Jun 2022
+<h3 align="left">Education</h3>
+-Daffodil International University, B.Sc. in Computer Science and Engineering, Jun 2022
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
