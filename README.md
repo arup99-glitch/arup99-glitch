@@ -1,4 +1,4 @@
- <img width="100%" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" alt="arup" /> 
+ <img width="100%" height="200" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" alt="arup" /> 
 <h1 align="center">Hi 👋, I'm Arup Chakraborty</h1>
 <h3 align="center">A passionate Developer from Bangladesh</h3>
 <hr></hr>
