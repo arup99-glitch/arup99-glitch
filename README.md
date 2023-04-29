@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/arupcha01935516" target="blank"><img src="https://img.shields.io/twitter/follow/arupcha01935516?logo=twitter&style=for-the-badge" alt="arupcha01935516" /></a> </p>
 
-- 🌱 I’m currently learning **Spring Boot,Java2EE**
+- 🌱 I’m currently learning **Spring Boot,Java2EE,DSA**
 
 - 👨‍💻 All of my projects are available at [https://gracious-lumiere-199c85.netlify.app/](https://gracious-lumiere-199c85.netlify.app/)
 
