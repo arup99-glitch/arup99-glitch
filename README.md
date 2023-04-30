@@ -25,7 +25,23 @@
   ->Full-stack Web Developer (Java2 EE)
   
 <h3 align="left">🎓Education</h3>
--Daffodil International University, B.Sc. in Computer Science and Engineering, Jun 2022
+-Daffodil International University, B.Sc. in Computer Science and Engineering, Jun 2022 
+<hr>
+
+<h3 align="left">🎓Training</h3>
+->2EE in BJIT
+->Web Development(MERN)in Programming Hero
+->Front-End_Mastery in DIUCPC
+<hr>
+
+<h3 align="left">🎓Project</h3>
+->Girls World[[https://gracious-lumiere-199c85.netlify.app/](https://girls-world-9147f.web.app/)]
+->Carvana-website[https://carnava-by-arup.netlify.app/]
+->Winter Vaccation[https://winter-vaccation-f113e.web.app/]
+->Smart Shopping Cart[ttps://strong-torrone-1310bd.netlify.app/]
+->Customize your Blue 24-Inch iMac with Apple M1 chip[https://brave-fermat-892561.netlify.app/]
+->Coffee Heaven[https://rainbow-pixie-ccbdb2.netlify.app/]
+<hr>
 
 <h3 align="left">🔗Connect with me:</h3>
 <p align="left">
