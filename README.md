@@ -31,19 +31,23 @@
 <hr>
 
 <h3 align="left">🎓Training</h3>
+
 - Java2EE in BJIT
+
 - Web Development(MERN)in Programming Hero
+
 - Front-End_Mastery in DIUCPC
 <hr>
 
 <h3 align="left">🎓Project</h3>
+
 - Girls World[[https://gracious-lumiere-199c85.netlify.app/]
 
 - Carvana-website[https://carnava-by-arup.netlify.app/]
 
 - Winter Vaccation[https://winter-vaccation-f113e.web.app/]
 
-- Smart Shopping Cart[ttps://strong-torrone-1310bd.netlify.app/]
+- Smart Shopping Cart[https://strong-torrone-1310bd.netlify.app/]
 
 - Customize your Blue 24-Inch iMac with Apple M1 chip[https://brave-fermat-892561.netlify.app/]
 
