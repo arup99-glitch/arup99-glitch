@@ -1,9 +1,9 @@
- <img width="100%" height="200" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" alt="arup" /> 
+ <img align="center" width="90%" height="200" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" alt="arup" /> 
 <h1 align="center">Hi 👋, I'm Arup Chakraborty</h1>
-<h3 align="center">A passionate Developer from Bangladesh</h3>
+<h6 align="center">I have been involved in web development for a year and also doing Competitive Programming. I also have problem solving mindset.If you give me chance, I want to show up my problem solving knowledge and skill,s.</h6>
 <hr>
 
-<p align="left"> <img  src="https://komarev.com/ghpvc/?username=arup99-glitch&label=Profile%20views&color=0e75b6&style=flat" alt="arup99-glitch" /><p> 
+<p align="left"> <img  src="https://komarev.com/ghpvc/?username=Arup99-glitch&label=Profile%20views&color=0e75b6&style=flat" alt="Arup99-glitch" /><p> 
 
 
 
@@ -11,13 +11,13 @@
 
 - 🌱 I’m currently learning **Spring Boot,Java2EE,DSA**
 
-- 👨‍💻 All of my projects are available at [https://gracious-lumiere-199c85.netlify.app/](https://gracious-lumiere-199c85.netlify.app/)
+- 👨‍💻 All of my projects are available at <a href="https://github.com/arup99-glitch/Web-SIte-Link">GitHub</a>
 
 - 💬 Ask me about **cp,dsa,oop,reactjs,nodejs,java,javascript,c,c++,mongodb,firebase,mysql**
 
 - 📫 How to reach me **arupchakraborty153@gmail.com**
 
-- 📄 Know about my experiences [https://gracious-lumiere-199c85.netlify.app/](https://gracious-lumiere-199c85.netlify.app/)
+- 📄 Know about my experiences <a href="https://arupchakraborty.netlify.app/">Portfolio</a>
  <hr>
 
 <h3 align="left">💻Work Experience</h3>
@@ -41,17 +41,42 @@
 
 <h3 align="left">🗃️Project</h3>
 
-- Girls World[[https://gracious-lumiere-199c85.netlify.app/]
+- <a href="https://girls-world-9147f.web.app/">Girls World</a>
+ 
+  <h6>Technology Used: React JS, NodeJS, Firebase Auth, React Router, Bootstrap,Express,MongoDB,MUI</h6>
+  <h6>Feature: SignIn,SignOut,Register,Add Cart,Delete Cart,Edit Cart,Dashboard,User History</h6>
 
-- Carvana-website[https://carnava-by-arup.netlify.app/]
+- <a href="https://carnava-by-arup.netlify.app/">Carvana-website</a>
 
-- Winter Vaccation[https://winter-vaccation-f113e.web.app/]
+  <h6>Technology Used: React JS, NodeJS, Firebase Auth, React Router,React Bootstrap,Express,MongoDB</h6>
+  <h6>Feature: SignIn,SignOut,Register,Booking Product,Status Check,Dashboard,User History</h6>
 
-- Smart Shopping Cart[https://strong-torrone-1310bd.netlify.app/]
+- <a href="https://winter-vaccation-f113e.web.app/">Winter Vaccation</a>
 
-- Customize your Blue 24-Inch iMac with Apple M1 chip[https://brave-fermat-892561.netlify.app/]
+  <h6>Technology Used: React JS, NodeJS, Firebase Auth, React Router, Bootstrap,Express,MongoDB</h6>
+  <h6>Feature: SignIn,SignOut,Register,Booking Vaccation,Status Check,Dashboard,User History</h6>
 
-- Coffee Heaven[https://rainbow-pixie-ccbdb2.netlify.app/]
+- <a href="https://strong-torrone-1310bd.netlify.app/">Smart Shopping Cart</a>
+
+  <h6>Technology Used: React JS,React Router,Redux,css</h6>
+  <h6>Feature: Add Cart,Delete Cart,Edit Cart,StockOut,Product see in Different Order</h6>
+
+- <a href="https://brave-fermat-892561.netlify.app/">Customize your Blue 24-Inch iMac with Apple M1 chip</a>
+
+  <h6>Technology Used: Javascript,HTML,CSS</h6>
+  <h6>Feature: Choose different parts,Check the budget,Finally build it.</h6>
+
+- <a href="https://rainbow-pixie-ccbdb2.netlify.app/">Coffee Heaven</a>
+
+  <h6>Technology Used: HTML,CSS
+  <h6>Feature: Card,Card Item Modal,Frontend Design</h6>
+<hr>
+<h3 align="left">📝 Blogs and writing</h3>
+
+- <a href="https://medium.com/@arupchakraborty153/coding-is-fun-e9d56ada1200">Code is Fun?<a>
+ 
+- <a href="https://medium.com/@arupchakraborty153/how-to-master-your-competitive-programming-skills-2a7e21a766e1">Master your competitive programming</a>
+
 <hr>
 
 <h3 align="left">🔗Connect with me:</h3>
@@ -75,12 +100,11 @@
 <hr>
 <h3 align="left">📊Github Stats</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arup99-glitch&show_icons=true&locale=en&layout=compact" alt="arup99-glitch" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Arup99-glitch&show_icons=true&locale=en&layout=compact" alt="Arup-98" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arup99-glitch&show_icons=true&locale=en" alt="arup99-glitch" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arup99-glitch&show_icons=true&locale=en" alt="Arup-98" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arup99-glitch&" alt="arup99-glitch" /></p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arup99-glitch" alt="arup99-glitch" /></a> </p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Arup99-glitch&" alt="Arup99-glitch" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Arup99-glitch" alt="Arup-98" /></a> </p>
 
 
