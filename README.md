@@ -1,4 +1,4 @@
- <img align="center" width="90%" height="200" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" alt="arup" /> 
+
 <h1 align="center">Hi 👋, I'm Arup Chakraborty</h1>
 <h6 align="center">I have been involved in web development for a year and also doing Competitive Programming. I also have problem solving mindset.If you give me chance, I want to show up my problem solving knowledge and skill,s.</h6>
 <hr>
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **arupchakraborty153@gmail.com**
 
-- 📄 Know about my experiences <a href="https://arupchakraborty.netlify.app/">Portfolio</a>
+- 📄 Know about my experiences <a href="https://arupchakraborty.netlify.app/">Portfolio</a> 
  <hr>
 
 <h3 align="left">💻Work Experience</h3>
