@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Arup Chakraborty</h1>
+<h1 align="center">Hi 👋, okk then I'm Arup Chakraborty</h1>
 <h6 align="center">I have been involved in web development for a year and also doing Competitive Programming. I also have problem solving mindset.If you give me chance, I want to show up my problem solving knowledge and skill,s.</h6>
 <hr>
 
@@ -35,6 +35,7 @@
 - Java2EE in BJIT
 
 - Web Development(MERN)in Programming Hero
+
 
 - Front-End_Mastery in DIUCPC
 <hr>
