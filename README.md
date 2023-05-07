@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋,I'm Arup Chakraborty</h1>
-<h6 align="center">I have been involved in web development for a year and also doing Competitive Programming. I also have problem solving mindset.If you give me chance, I want to show up my problem solving knowledge and skill,s.</h6>
+<h1 align="center">Hi 👋I'm Arup Chakraborty</h1>
+<h6 align="center">I have been involved in web development for a year and also doing Competitive Programming. I also have problem solving mindset.If you give me chance, I want to show up my problem solving knowledge and skill's.</h6>
 <hr>
 
 <p align="left"> <img  src="https://komarev.com/ghpvc/?username=Arup99-glitch&label=Profile%20views&color=0e75b6&style=flat" alt="Arup99-glitch" /><p> 
@@ -101,11 +101,18 @@
 <hr>
 <h3 align="left">📊Github Stats</h3>
 
-<p background-color="black"><img background-color="black" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Arup99-glitch&show_icons=true&locale=en&layout=compact" alt="Arup-98" /></p>
+<p align="center">
+    <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=arup99-glitch&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arup99-glitch&show_icons=true&locale=en" alt="Arup-98" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Arup99-glitch&" alt="Arup99-glitch" /></p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Arup99-glitch" alt="Arup-98" /></a> </p>
+ <br/>
+  <p align = "center">
+    <a href="https://github.com/arup99-glitch/github-readme-stats"><img alt="Arup Chakrabortyr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=arup99-glitch&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/arup99-glitch/github-readme-stats"><img alt="Arup Chakrabortyr's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arup99-glitch&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+   <p>
+  <br/>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Arup99-glitch&" alt="Arup-98" /></a> </p>
 
 
