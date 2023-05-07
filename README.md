@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, okk then I'm Arup Chakraborty</h1>
+<h1 align="center">Hi 👋,I'm Arup Chakraborty</h1>
 <h6 align="center">I have been involved in web development for a year and also doing Competitive Programming. I also have problem solving mindset.If you give me chance, I want to show up my problem solving knowledge and skill,s.</h6>
 <hr>
 
@@ -101,7 +101,7 @@
 <hr>
 <h3 align="left">📊Github Stats</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Arup99-glitch&show_icons=true&locale=en&layout=compact" alt="Arup-98" /></p>
+<p background-color="black"><img background-color="black" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Arup99-glitch&show_icons=true&locale=en&layout=compact" alt="Arup-98" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arup99-glitch&show_icons=true&locale=en" alt="Arup-98" /></p>
 
