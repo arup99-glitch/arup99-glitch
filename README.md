@@ -113,6 +113,8 @@
   <a href="https://github.com/arup99-glitch/github-readme-stats"><img alt="Arup Chakrabortyr's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arup99-glitch&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
    <p>
   <br/>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Arup99-glitch&" alt="Arup-98" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=arup98-glitch&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br />
 
 
