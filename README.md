@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/arupcha01935516" target="blank"><img src="https://img.shields.io/twitter/follow/arupcha01935516?logo=twitter&style=for-the-badge" alt="arupcha01935516" /></a> </p>
 
-- 🌱 I’m currently learning **Spring Boot,Java2EE,DSA**
+- 🌱 I’m currently learning **Spring Boot,Java2EE,DSA** and also doing problem solving.
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/arup99-glitch/Web-SIte-Link">GitHub</a>
 
