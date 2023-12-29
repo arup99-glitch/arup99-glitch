@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/arupcha01935516" target="blank"><img src="https://img.shields.io/twitter/follow/arupcha01935516?logo=twitter&style=for-the-badge" alt="arupcha01935516" /></a> </p>
 <img align="right"  src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" alt="Coding Guy" width="300" height="300">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=grabbi467&label=Profile%20views&color=0e75b6&style=flat" alt="grabbi467" /> </p>
+<p align="left"> 
 
 - 🌱 I’m currently learning **Spring Boot,Java2EE,DSA** and also doing problem solving.
 
