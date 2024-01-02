@@ -84,11 +84,6 @@
   <h6>Technology Used: React JS, NodeJS, Firebase Auth, React Router,React Bootstrap,Express,MongoDB</h6>
   <h6>Feature: SignIn,SignOut,Register,Booking Product,Status Check,Dashboard,User History</h6>
 
-- <a href="https://winter-vaccation-f113e.web.app/">Winter Vaccation</a>
-
-  <h6>Technology Used: React JS, NodeJS, Firebase Auth, React Router, Bootstrap,Express,MongoDB</h6>
-  <h6>Feature: SignIn,SignOut,Register,Booking Vaccation,Status Check,Dashboard,User History</h6>
-
 
 <hr>
 <h3 align="left">📝 Blogs and writing</h3>
