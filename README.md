@@ -44,6 +44,36 @@
 
 <h3 align="left">🗃️Project</h3>
 
+- <a href="https://github.com/arup99-glitch/evaluation-management-system-springboot">Evaluation Management System</a>
+
+  <h6>Technology Used:Spring Boot,Spring Security,JPA,JSON Web Tokens (JWT),Gradle,MySQL,ReactJS,React Bootstrap,CSS,MUI</h6>
+  <h6>Feature:
+
+              1.User registration and login with JWT authentication.
+   
+              2.Password encryption using BCrypt.
+  
+              3. Role-based (Trainee,Trainer, ADMIN) authorization with Spring Security.
+  
+              4. Admin can create Trainee,Trainer.
+  
+              5. Also users can Login.
+  
+              6. Trainer Can create a batch.
+  
+              7. Trainer Can Assign Trainee.
+  
+              8. Trainer can view each submission under batch.
+  
+              9. Trainer can evaluation marks under batch and based on submission
+  
+              10.There are 5 types of evaluation :
+  
+                 1.Daily Task 2.Mini Project 3.Mid Project 4.Final project
+                 5.Manager Evaluation 6.CEO Evaluation
+  
+              11.Then Trainer can generate Final Score of each batch.</h6>
+  
 - <a href="https://girls-world-9147f.web.app/">Girls World</a>
  
   <h6>Technology Used: React JS, NodeJS, Firebase Auth, React Router, Bootstrap,Express,MongoDB,MUI</h6>
