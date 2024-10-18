@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋I'm Arup Chakraborty</h1>
-<h6 align="center">I have been involved in web development for a year and also doing Competitive Programming. I also have problem solving mindset.If you give me chance, I want to show up my problem solving knowledge and skill's.</h6>
+<h6 align="center">I have many dreams, and though I may have started late, I am giving everything I have to pursue them. One day, I will prove that determination and hard work can make anything possible</h6>
 <hr>
 
 <p align="left"> <img  src="https://komarev.com/ghpvc/?username=Arup99-glitch&label=Profile%20views&color=0e75b6&style=flat" alt="Arup99-glitch" /><p> 
