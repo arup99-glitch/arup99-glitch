@@ -2,27 +2,35 @@
 <h1 align="center">Hi 👋I'm Arup Chakraborty</h1>
 <!-- <h6 align="center">I have many dreams, and though I may have started late, I am giving everything I have to pursue them. One day, I will prove that determination and hard work can make anything possible</h6> -->
 <hr>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Arup99-glitch&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
-<p align="left"> <img  src="https://komarev.com/ghpvc/?username=Arup99-glitch&label=Profile%20views&color=0e75b6&style=flat" alt="Arup99-glitch" /><p> 
+<p align="left">
+  <a href="https://twitter.com/arupcha01935516" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/arupcha01935516?logo=twitter&style=for-the-badge" alt="Follow on Twitter" />
+  </a>
+</p>
 
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" alt="Coding Guy" width="300" height="300">
 
+<h3 align="left">🌱 Current Focus</h3>
+<p align="left">
+  I’m currently working on an <strong>IoT</strong>-based project using <strong>Spring Boot, Java EE, and AngularJS</strong> at 
+ <a href="https://www.tekshilpa.com" target="_blank" style="text-decoration: none;">TekShilpa Limited</a>
+ and also doing <strong>Competitive Programming</strong>.
+</p>
 
-<p align="left"> <a href="https://twitter.com/arupcha01935516" target="blank"><img src="https://img.shields.io/twitter/follow/arupcha01935516?logo=twitter&style=for-the-badge" alt="arupcha01935516" /></a> </p>
-<img align="right"  src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" alt="Coding Guy" width="300" height="300">
-<p align="left"> 
+<h3 align="left">👨‍💻 Projects & Contact</h3>
+<ul>
+  <li>All of my projects are available at <a href="https://github.com/arup99-glitch/Web-SIte-Link">GitHub</a></li>
+  <li>💬 Ask me about anything</li>
+  <li>📫 How to reach me: <strong>arupchakraborty153@gmail.com</strong></li>
+  <li>📄 Know about my experiences: <a href="https://arupchakraborty.netlify.app/">Portfolio</a></li>
+</ul>
 
+<hr />
 
-- 🌱 I’m currently working on an **IoT**-based project using **Spring Boot, Java EE, and AngularJS** at [TekShilpa Limited](https://www.tekshilpa.com) and also doing **Competitive Programming**.
-
-
-- 👨‍💻 All of my projects are available at <a href="https://github.com/arup99-glitch/Web-SIte-Link">GitHub</a>
-
-- 💬 Ask me about anything
-
-- 📫 How to reach me **arupchakraborty153@gmail.com**
-
-- 📄 Know about my experiences <a href="https://arupchakraborty.netlify.app/">Portfolio</a> 
- <hr>
 
 <h3 align="left">💻 Work Experience</h3>
 <ul>
