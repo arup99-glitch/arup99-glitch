@@ -23,16 +23,26 @@
 - 📄 Know about my experiences <a href="https://arupchakraborty.netlify.app/">Portfolio</a> 
  <hr>
 
-<h3 align="left">💻Work Experience</h3>
--Junior Software Developer, TekShilpa Limited, October 2024 - Present
+<h3 align="left">💻 Work Experience</h3>
+<ul>
+  <li>
+    <h4>Junior Software Developer</h4>
+    <p><strong>TekShilpa Limited</strong> — <em>October 2024 - Present</em></p>
+    <p>• Developing innovative solutions using Java Spring Boot, Angular, and other technologies to optimize performance and user experience.</p>
+  </li>
+  <br/>
+  <li>
+    <h4>Trainee Software Engineer</h4>
+    <p><strong>BJIT Academy</strong> — <em>April 2023 - September 2023</em></p>
+    <p>• Gained hands-on experience with Java development, Spring framework, and database integration, enhancing skills in backend development.</p>
+  </li>
+</ul>
 
-
--Trainee Software Engineer, BJIT Academy, April 2023 - September 2023
 
 <hr>
   
 <h3 align="left">🎓Education</h3>
--Daffodil International University, B.Sc. in Computer Science and Engineering, Jun 2022 
+-Daffodil International University, B.Sc. in Computer Science and Engineering
 <hr>
 
 <h3 align="left">📚Training</h3>
@@ -55,12 +65,11 @@
 - <a href="https://girls-world-9147f.web.app/">Girls World</a>
  
   <h6>Technology Used: React JS, NodeJS, Firebase Auth, React Router, Bootstrap,Express,MongoDB,MUI</h6>
-  <h6>Feature: SignIn,SignOut,Register,Add Cart,Delete Cart,Edit Cart,Dashboard,User History</h6>
 
 - <a href="https://carnava-by-arup.netlify.app/">Carvana-website</a>
 
   <h6>Technology Used: React JS, NodeJS, Firebase Auth, React Router,React Bootstrap,Express,MongoDB</h6>
-  <h6>Feature: SignIn,SignOut,Register,Booking Product,Status Check,Dashboard,User History</h6>
+
 
 
 <hr>
@@ -71,23 +80,46 @@
 - <a href="https://medium.com/@arupchakraborty153/how-to-master-your-competitive-programming-skills-2a7e21a766e1">Master your competitive programming</a>
 
 <hr>
-
-<h3 align="left">🔗Connect with me:</h3>
+<h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/arupcha01935516" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arupcha01935516" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/arup-chakraborty-425b73221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arup-chakraborty-425b73221" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/19351108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19351108" height="30" width="40" /></a>
-<a href="https://fb.com/arup.chakraborty.108889" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arup.chakraborty.108889" height="30" width="40" /></a>
-<a href="https://instagram.com/arup_chakra_borty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arup_chakra_borty" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/arupchakrabort" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="arupchakrabort" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/arupchakraborty3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="arupchakraborty3" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/aru_p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="aru_p" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/arupchakraborty153" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arupchakraborty153" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/arupchakra2wv9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="arupchakra2wv9" height="30" width="40" /></a>
-<a href="https://discord.gg/Arup#6375" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Arup#6375" height="30" width="40" /></a>
+  <a href="https://twitter.com/arupcha01935516" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=&message=Twitter&color=1DA1F2&logo=twitter&logoColor=FFFFFF" alt="Twitter"/>
+  </a>
+  <a href="https://linkedin.com/in/arup-chakraborty-425b73221" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=0077B5&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn"/>
+  </a>
+  <a href="https://stackoverflow.com/users/19351108" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=&message=Stack%20Overflow&color=FE7A16&logo=stackoverflow&logoColor=FFFFFF" alt="Stack Overflow"/>
+  </a>
+  <a href="https://fb.com/arup.chakraborty.108889" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=&message=Facebook&color=1877F2&logo=facebook&logoColor=FFFFFF" alt="Facebook"/>
+  </a>
+  <a href="https://instagram.com/arup_chakra_borty" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=&message=Instagram&color=E4405F&logo=instagram&logoColor=FFFFFF" alt="Instagram"/>
+  </a>
+  <a href="https://www.codechef.com/users/arupchakrabort" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=&message=CodeChef&color=5B4638&logo=codechef&logoColor=FFFFFF" alt="CodeChef"/>
+  </a>
+  <a href="https://www.hackerrank.com/arupchakraborty3" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=&message=HackerRank&color=2EC866&logo=hackerrank&logoColor=FFFFFF" alt="HackerRank"/>
+  </a>
+  <a href="https://codeforces.com/profile/aru_p" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=&message=Codeforces&color=1F8ACB&logo=codeforces&logoColor=FFFFFF" alt="Codeforces"/>
+  </a>
+  <a href="https://www.leetcode.com/arupchakraborty153" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=&message=LeetCode&color=FFA116&logo=leetcode&logoColor=FFFFFF" alt="LeetCode"/>
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/arupchakra2wv9" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=&message=GeeksforGeeks&color=0F9D58&logo=geeksforgeeks&logoColor=FFFFFF" alt="GeeksforGeeks"/>
+  </a>
+  <a href="https://discord.gg/Arup#6375" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=&message=Discord&color=5865F2&logo=discord&logoColor=FFFFFF" alt="Discord"/>
+  </a>
 </p>
+
+
 <hr>
-<h2 align="left">💻 My Tech</h2>
+<h2 align="left">💻 Skills</h2>
 
 ### Languages
 ![C++](https://img.shields.io/static/v1?&message=C%2B%2B&color=1e5aba&logo=C%2B%2B&label=&)
