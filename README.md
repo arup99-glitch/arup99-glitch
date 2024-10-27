@@ -11,11 +11,12 @@
 <img align="right"  src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" alt="Coding Guy" width="300" height="300">
 <p align="left"> 
 
-- 🌱 I’m currently learning **Spring Boot,Java2EE,DSA** and also doing problem solving.
+
+- 🌱 I’m currently working on **IOT** based project using  **Spring Boot,Java2EE,AngularJs** && also doing **CP**.
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/arup99-glitch/Web-SIte-Link">GitHub</a>
 
-- 💬 Ask me about **cp,dsa,oop,reactjs,nodejs,java,javascript,c,c++,mongodb,firebase,mysql**
+- 💬 Ask me about **cp,dsa,oop,java,c,c++,javascript,springboot,angularjs,reactjs,nodejs,mongodb,firebase,mysql**
 
 - 📫 How to reach me **arupchakraborty153@gmail.com**
 
