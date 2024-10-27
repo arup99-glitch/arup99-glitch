@@ -12,7 +12,8 @@
 <p align="left"> 
 
 
-- 🌱 I’m currently working on **IOT** based project using  **Spring Boot,Java2EE,AngularJs** in TekShilpa Limited && also doing **CP**.
+- 🌱 I’m currently working on an **IoT**-based project using **Spring Boot, Java EE, and AngularJS** at [TekShilpa Limited](https://www.tekshilpa.com) and also doing **Competitive Programming**.
+
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/arup99-glitch/Web-SIte-Link">GitHub</a>
 
