@@ -1,7 +1,6 @@
 
 <h1 align="center">Hi 👋I'm Arup Chakraborty</h1>
 <!-- <h6 align="center">I have many dreams, and though I may have started late, I am giving everything I have to pursue them. One day, I will prove that determination and hard work can make anything possible</h6> -->
-<hr>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Arup99-glitch&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
