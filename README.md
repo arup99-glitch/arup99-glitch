@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/arup99-glitch/Web-SIte-Link">GitHub</a>
 
-- 💬 Ask me about **cp,dsa,oop,java,c,c++,javascript,springboot,angularjs,reactjs,nodejs,mongodb,firebase,mysql**
+- 💬 Ask me about anything
 
 - 📫 How to reach me **arupchakraborty153@gmail.com**
 
@@ -24,12 +24,11 @@
  <hr>
 
 <h3 align="left">💻Work Experience</h3>
-- Junior Software Developer, TekShilpa Limited, October 2024 - Present
+-Junior Software Developer, TekShilpa Limited, October 2024 - Present
 
 
-- Trainee Software Engineer, BJIT Academy, April 2023 - September 2023
+-Trainee Software Engineer, BJIT Academy, April 2023 - September 2023
 
-  - Full-stack Web Developer (Java2 EE)
 <hr>
   
 <h3 align="left">🎓Education</h3>
