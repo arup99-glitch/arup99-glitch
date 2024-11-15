@@ -83,7 +83,7 @@
 <hr>
 <h3 align="left">📝 Blogs and writing</h3>
 
-- <a href="https://medium.com/@arupchakraborty153">Code is Fun?<a>
+- <a href="https://medium.com/@arupchakraborty153">Medium<a>
  
 
 <hr>
