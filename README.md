@@ -83,9 +83,8 @@
 <hr>
 <h3 align="left">📝 Blogs and writing</h3>
 
-- <a href="https://medium.com/@arupchakraborty153/coding-is-fun-e9d56ada1200">Code is Fun?<a>
+- <a href="https://medium.com/@arupchakraborty153">Code is Fun?<a>
  
-- <a href="https://medium.com/@arupchakraborty153/how-to-master-your-competitive-programming-skills-2a7e21a766e1">Master your competitive programming</a>
 
 <hr>
 <h3 align="left">🔗 Connect with me:</h3>
