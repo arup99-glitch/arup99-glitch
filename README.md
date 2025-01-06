@@ -145,6 +145,7 @@
 
 ### Database
 ![MySQL](https://img.shields.io/static/v1?&message=MySQL&color=5699cc&logo=MySQL&logoColor=FFFFFF&label=)
+![PostgreSQL](https://img.shields.io/static/v1?&message=PostgreSQL&color=336791&logo=PostgreSQL&logoColor=FFFFFF&label=)
 ![MongoDB](https://img.shields.io/static/v1?&message=MongoDB&color=47A248&logo=MongoDB&label=&)
 ![Firebase](https://img.shields.io/static/v1?&message=Firebase&color=FFCA28&logo=Firebase&label=&)
 
