@@ -1,6 +1,7 @@
 
 <h1 align="center">
-  <a href="https://github.com/arup99-glitch">
+      <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+ <a href="https://github.com/arup99-glitch">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Arup+Chakraborty" alt="Typing SVG">
   </a>
 </h1>
@@ -17,7 +18,7 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" alt="Coding Guy" width="300" height="300">
 
-<h3 align="left">🌱 Current Focus</h3>
+<h3 align="left">🌱 Current Focus<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h3>
 <p align="left">
   I’m currently working on an <strong>IoT</strong>-based project using <strong>Spring Boot, Java EE, and AngularJS</strong> at 
  <a href="https://www.tekshilpa.com" target="_blank" style="text-decoration: none;">TekShilpa Limited</a>
@@ -191,4 +192,5 @@
     <img src="https://github-profile-trophy.vercel.app/?username=arup99-glitch&theme=algolia&no-bg=true&no-frame=true">
 </div>
 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
