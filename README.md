@@ -30,7 +30,7 @@
   <li>All of my projects are available at <a href="https://github.com/arup99-glitch/Web-SIte-Link">GitHub</a></li>
   <li>💬 Ask me about anything</li>
   <li>📫 How to reach me: <strong>arupchakraborty153@gmail.com</strong></li>
-  <li>📄 Know about my experiences: <a href="https://arupchakraborty.netlify.app/">Portfolio</a></li>
+  <li>📄 Know about my experiences: <a href="https://arup-chakra-borty.vercel.app/">Portfolio</a></li>
 </ul>
 
 <hr />
