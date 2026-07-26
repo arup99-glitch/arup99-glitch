@@ -6,9 +6,9 @@
   </a>
 </h1>
 <!-- <h6 align="center">I have many dreams, and though I may have started late, I am giving everything I have to pursue them. One day, I will prove that determination and hard work can make anything possible</h6> -->
-<p align="left">
+<!-- <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Arup99-glitch&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+</p> -->
 
 <p align="left">
   <a href="https://twitter.com/arupcha01935516" target="_blank">
