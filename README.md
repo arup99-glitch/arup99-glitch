@@ -174,25 +174,6 @@
 
 
 <hr>
-<h3 align="left">📊Github Stats</h3>
-
-<p align="center">
-    <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=arup99-glitch&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
-
- <br/>
-  <p align = "center">
-    <a href="https://github.com/arup99-glitch/github-readme-stats"><img alt="Arup Chakrabortyr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=arup99-glitch&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/arup99-glitch/github-readme-stats"><img alt="Arup Chakrabortyr's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arup99-glitch&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-   <p>
-  <br/>
-<div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=arup99-glitch&theme=algolia&no-bg=true&no-frame=true">
-</div>
-
-
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
