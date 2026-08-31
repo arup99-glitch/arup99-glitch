@@ -68,7 +68,7 @@
 - Front-End_Mastery in DIUCPC
 <hr>
 
-<h3 align="left">🗃️Project</h3>
+<!-- <h3 align="left">🗃️Project</h3>
 
 - <a href="https://github.com/arup99-glitch/evaluation-management-system-springboot">Evaluation Management System</a>
 
@@ -81,7 +81,7 @@
 
 - <a href="https://carnava-by-arup.netlify.app/">Carvana-website</a>
 
-  <h6>Technology Used: React JS, NodeJS, Firebase Auth, React Router,React Bootstrap,Express,MongoDB</h6>
+  <h6>Technology Used: React JS, NodeJS, Firebase Auth, React Router,React Bootstrap,Express,MongoDB</h6> -->
 
 
 
